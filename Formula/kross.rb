@@ -1,8 +1,8 @@
 class Kross < Formula
   desc "Kross shell"
   homepage "https://github.com/KyleMcB/kross"
-  url "https://github.com/KyleMcB/kross/releases/download/v0.1.0-alpha/kross.zip"
-  sha256 "e28835535d9800b07c53c646ef175edbfe529a32224019172bbd55180b36748"
+  url "https://github.com/KyleMcB/kross/releases/download/v0.1.6.1/kross.zip"
+  sha256 "731c8f6b556f8d68a4264bf4ef3cbcb5be196a3be8aae35a180f4a8cd4f3ba32"
   license "MIT"
 
   depends_on "openjdk" # Ensure Java is installed
